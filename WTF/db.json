@@ -1,0 +1,44 @@
+{
+    "PMs":[
+        {
+            "id":"1",
+            "firstname":"John",
+            "lastname": "Key",
+            "years served": "2008 - 2016"
+
+        },
+        {
+            "id": "2",
+            "firstname": "Donald",
+            "lastname": "Trump",
+            "years served": "2016"
+        },
+        {
+            "id": "1",
+            "firstname": "Jacinda",
+            "lastname": "Ardern",
+            "years served":"2017 - "
+
+        }
+
+    ],
+    "Country":[
+        {
+            "id": "1",
+            "country": "New Zealand",
+            "No of Leader before": "31"
+
+        },
+        {
+            "id": "2",
+            "country": "USA",
+            "No of Leader before": "44"
+
+        },
+        {
+            "id": "1",
+            "country": "New Zealand",
+            "No of Leader before": "32"
+        }
+    ]
+}
